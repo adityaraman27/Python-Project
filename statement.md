@@ -9,7 +9,9 @@ The aim of this project is to build a classic Hangman game using Python. Here a 
 
 # Target Users
 1.Students and beginners learning Python programming and basic control flow in the program.
+
 2.Anyone seeking a entertaining and interactive word-guessing game that can be played from the command line.
+
 3. Educators who want to demonstrate the use of lists, loops, and conditionals in a real-world context like Hangman game.
 
 # High-Level Features

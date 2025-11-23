@@ -1,4 +1,4 @@
-bimport random
+import random
 word_list = ["greninja","goodra", "talonflame", "noibat","pikachu", "hawlucha", "balloon", "banana"]
 word = random.choices(word_list)
 fword = word[0]

@@ -44,6 +44,7 @@ The code is written in python language for a classic game known as Hangman Game.
  <img width="1190" height="820" alt="image" src="https://github.com/user-attachments/assets/cf0bb623-6108-42bc-b9e0-0c0bdf09678b" />
  
 #Scoreboard
+
 The scoreboard displays the number of games played and win count at the end of the gameplay.
 
 

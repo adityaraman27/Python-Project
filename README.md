@@ -1,20 +1,20 @@
 # Python-Project
 Hangman Game
 # Overview
-The code is written in python language for a classic game known as Hangman Game. A word is randomly selected from a given list of words, and the player has six lives to guess the word. The code allows user to enter one letter as a guess at a time. The code shows the number of games played and the user's win score at the end of the game. After every game, user has to option to play futher or quit the game.
+The code is written in python language for a classic game known as Hangman Game. A word is randomly selected from a given list of words, and the player has six lives to guess the word. The code allows user to enter one letter as a guess at a time. The code shows the number of games played and the user's win score at the end of the game. After every game, user has two option to play futher or quit the game.
 
-#Features
+# Features
 1. Words gets selected randomly from a list of words.
 2. Hangman gets representated for each incorrect guess.
 3. Win and loss tracking with appropriate code.
 4. Scoreboard detecting number of games played and wins and losses.
 5. Play-again option for continuous gameplay by writing yes or no.
 
-#Requirement
+# Requirement
 
 1.Python 3.x
 
-#Steps to install and run your Hangman project :
+# Steps to install and run your Hangman project :
 1. Install Software : Visual Studio Code, GitHub Desktop, Python 3.x Git
 2. Clone repository with gitHub desktop.
 3. Open gitHub desktop and oform your gitHub account.
@@ -27,7 +27,7 @@ The code is written in python language for a classic game known as Hangman Game.
 10. Run the project and interact with the program.
 11. Commit and push from GitHub Desktop.
 
-#Gameplay Instructions
+# Gameplay Instructions
 1. On the initial stage, the game displays the length of the randomly chosen word and the hangman graphic.
 2. Enter a letter on each turn.
 3. If the letter is correct, the positions of the entered letter are revealed.
@@ -35,7 +35,7 @@ The code is written in python language for a classic game known as Hangman Game.
 5. The game ends when all letters are guessed or the total life becomes 0.
 6. After the game, the user can choose whether to play again or quit the game.
 
-#Examnple Screenshots
+# Examnple Screenshots
 1. Starting of the game - 
 <img width="1197" height="381" alt="image" src="https://github.com/user-attachments/assets/edeea6ef-45df-4ca6-91f6-89e1a70b0ef8" />
 2. In between game -
@@ -43,7 +43,7 @@ The code is written in python language for a classic game known as Hangman Game.
 3. Ending of the game -
  <img width="1190" height="820" alt="image" src="https://github.com/user-attachments/assets/cf0bb623-6108-42bc-b9e0-0c0bdf09678b" />
  
-#Scoreboard
+# Scoreboard
 
 The scoreboard displays the number of games played and win count at the end of the gameplay.
 

@@ -13,6 +13,7 @@ The code is written in python language for a classic game known as Hangman Game.
 # Requirement
 
 1.Python 3.x
+2. Module random
 
 # Steps to install and run your Hangman project :
 1. Install Software : Visual Studio Code, GitHub Desktop, Python 3.x Git

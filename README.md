@@ -11,6 +11,7 @@ The code is written in python language for a classic game known as Hangman Game.
 5. Play-again option for continuous gameplay by writing yes or no.
 
 #Requirement
+
 1.Python 3.x
 
 #Steps to install and run your Hangman project :

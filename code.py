@@ -119,7 +119,7 @@ while True :
             print(stages[5])      
         if total_life == 0 :
             print(stages[6])
-            print("YOU LOST !!")
+            print("YOU LOST !! BETTER LUCK NEXT TIME .")
             print(wordl)
             break
         if guess == wordl :

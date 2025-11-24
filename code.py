@@ -99,7 +99,7 @@ while True :
         if inp in wordl :
             print("correct guess")
             c=wordl.count(inp)
-            for i in range(c):
+            for i in range(c) :
                 l = copyl.index(inp)
                 guess[l] = inp
                 copyl[l] = "*"

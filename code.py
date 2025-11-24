@@ -119,11 +119,11 @@ while True :
             print(stages[5])      
         if total_life == 0 :
             print(stages[6])
-            print("YOU LOST !! BETTER LUCK NEXT TIME .")
+            print("YOU LOST !! BETTER LUCK NEXT TIME :( .")
             print(wordl)
             break
         if guess == wordl :
-            print("CONGRATULATIONS!! YOU HAVE WON THE GAME .")
+            print("CONGRATULATIONS!! YOU HAVE WON THE GAME :) .")
             w+=1
             break
     ch=input("do you want to play again (yes/no) : ")

@@ -95,7 +95,7 @@ while True :
                     """
         ]
     while total_life > 0:
-        inp = input("Enter letter :" )
+        inp = input("Enter Letter :" )
         if inp in wordl :
             print("Correct Guess")
             c=wordl.count(inp)

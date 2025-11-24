@@ -130,7 +130,7 @@ while True :
     if ch=='no':
         break
 print()
-print("----------------SCOREBOARD----------------")
+print("---------------------SCOREBOARD--------------------")
 print()
 print("no. of times game played : ",n)
 print("win score : ",w)

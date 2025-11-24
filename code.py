@@ -9,7 +9,7 @@ while True :
     word_len = len(word[0])
     wordl=list(fword)
     guess = [ "_" for i in range(len(fword))]
-    print("----------------WELCOME TO HANGMAN GAME----------------")
+    print("--------------------WELCOME TO HANGMAN GAME !--------------------")
     print("the len of the word is : ",word_len)
     print("""
                        --------

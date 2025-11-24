@@ -97,7 +97,7 @@ while True :
     while total_life > 0:
         inp = input("Enter letter :" )
         if inp in wordl :
-            print("correct guess")
+            print("Correct guess")
             c=wordl.count(inp)
             for i in range(c) :
                 l = copyl.index(inp)

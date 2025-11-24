@@ -105,7 +105,7 @@ while True :
                 copyl[l] = "*"
             print(guess) 
         else :
-            print("wrong guess")
+            print("Wrong guess")
             total_life -=1
         if total_life == 5 :
             print(stages[1])    

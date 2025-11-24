@@ -126,11 +126,11 @@ while True :
             print("CONGRATULATIONS!! YOU HAVE WON THE GAME :) .")
             w+=1
             break
-    ch=input("do you want to play again (yes/no) : ")
+    ch=input("Do you want to play again (yes/no) : ")
     if ch=='no':
         break
 print()
 print("---------------------SCOREBOARD--------------------")
 print()
-print("no. of times game played : ",n)
-print("win score : ",w)
+print("No. of times game played : ",n)
+print("Win Score : ",w)

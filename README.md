@@ -37,7 +37,7 @@ The code is written in python language for a classic game known as Hangman Game.
 5. The game ends when all letters are guessed or the total life becomes 0.
 6. After the game, the user can choose whether to play again or quit the game.
 
-# Examnple Screenshots
+# Examnple Screenshots -
 1. Starting of the game - 
 <img width="1197" height="381" alt="image" src="https://github.com/user-attachments/assets/edeea6ef-45df-4ca6-91f6-89e1a70b0ef8" />
 2. In between game -

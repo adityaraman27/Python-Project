@@ -54,4 +54,5 @@ The scoreboard displays the number of games played and win count at the end of t
 2. Stages as multi-line strings: Offers simple visual feedback within text-only environments.
 3. Modularity: Breaking the logic into clear functional blocks (input handling, state update, and rendering) simplifies maintenance.
 
-
+# Implementation Details
+The core of the program is driven by a loop that takes user input, updates the current guess state, provides visual feedback, and checks for win/loss conditions.

@@ -29,7 +29,7 @@ The code is written in python language for a classic game known as Hangman Game.
 10. Run the project and interact with the program.
 11. Commit and push from GitHub Desktop.
 
-# Gameplay Instructions
+# Gameplay Instructions -
 1. On the initial stage, the game displays the length of the randomly chosen word and the hangman graphic.
 2. Enter a letter on each turn.
 3. If the letter is correct, the positions of the entered letter are revealed.

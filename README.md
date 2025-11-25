@@ -1,7 +1,7 @@
 # Python-Project
 Hangman Game.
 # Overview -
-The code is written in python language for a classic game known as Hangman Game. A word is randomly selected from a given list of words, and the player has six lives to guess the word. The code allows user to enter one letter as a guess at a time. The code shows the number of games played and the user's win score at the end of the game. After every game, user has two option to play futher or quit the game.
+The code is written in Python language for a classic game known as Hangman Game. A word is randomly selected from a given list of words, and the player has six lives to guess the word. The code allows user to enter one letter as a guess at a time. The code shows the number of games played and the user's win score at the end of the game. After every game, user has two option to play futher or quit the game.
 
 # Features -
 1. Words gets selected randomly from a list of words.

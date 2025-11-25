@@ -17,7 +17,7 @@ The code is written in python language for a classic game known as Hangman Game.
 2. Module random
 
 # Steps to install and run your Hangman project :
-1. Install Software : Visual Studio Code, GitHub Desktop, Python 3.x Git
+1. Install Software : Visual Studio Code, GitHub Desktop, Python 3.x Git.
 2. Clone repository with gitHub desktop.
 3. Open gitHub desktop and oform your gitHub account.
 4. Clone your project repository to a local folder.

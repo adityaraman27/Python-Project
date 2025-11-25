@@ -57,7 +57,7 @@ The scoreboard displays the number of games played and win count at the end of t
 # Implementation Details -
 The core of the program is driven by a loop that takes user input, updates the current guess state, provides visual feedback, and checks for win/loss conditions.
 
-# Future Improvements
+# Future Improvements -
 1. Add more words
 2. Graphical interface
 3. Multiplayer mode

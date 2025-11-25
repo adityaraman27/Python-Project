@@ -62,4 +62,4 @@ The core of the program is driven by a loop that takes user input, updates the c
 
 2. Graphical interface
 
-Multiplayer mode
+3. Multiplayer mode

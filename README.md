@@ -49,6 +49,11 @@ The code is written in python language for a classic game known as Hangman Game.
 
 The scoreboard displays the number of games played and win count at the end of the gameplay.
 
+# Design Decisions Rationale
+Lists for game state: Chosen for easy character replacement and state tracking.
 
+Stages as multi-line strings: Offers simple visual feedback within text-only environments.
+
+Modularity: Breaking the logic into clear functional blocks (input handling, state update, and rendering) simplifies maintenance.
 
 
